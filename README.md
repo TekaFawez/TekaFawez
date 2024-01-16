@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tekafawez@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14Do_YJYj_XChPlLMWhCnlYhouaOmQE-z/view?usp=sharing](https://drive.google.com/file/d/1uAyRFttN2Jj5QODq5gGiD2WrsEJtNkzP/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14Do_YJYj_XChPlLMWhCnlYhouaOmQE-z/view?usp=sharing])(https://drive.google.com/file/d/1uAyRFttN2Jj5QODq5gGiD2WrsEJtNkzP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
