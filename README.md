@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawez TEKA</h1>
-<h3 align="center">A passionate Full Stack developer from Tunisia</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekafawez" alt="tekafawez" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tekafawez@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14Do_YJYj_XChPlLMWhCnlYhouaOmQE-z/view?usp=sharing])(https://drive.google.com/file/d/1uAyRFttN2Jj5QODq5gGiD2WrsEJtNkzP/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
